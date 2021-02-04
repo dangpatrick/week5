@@ -1,0 +1,12 @@
+{
+  "name": "dangpatrick/week5",
+  "authors": [
+    {
+      "name": "Patrick Dang",
+      "email": "pdang2@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
