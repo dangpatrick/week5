@@ -18,7 +18,7 @@ $f3->route('GET /', function(){
     //creating a new view using the Template constructor
     $view = new Template();
     //echo the view and invoke its render method and supply the path
-    echo $view->render('views/home.html');
+    echo $view->render('views/info.html');
 });
 
 //Run fat free
